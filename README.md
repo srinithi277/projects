@@ -33,7 +33,7 @@ This repository will grow along with my skills.
 
 ---
 
-## 🛠️ My Approach
+##  My Approach
 
 > Learn the concept → Experiment with it → Build something → Improve it.
 

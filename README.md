@@ -1,8 +1,8 @@
-# 🚀 My Project Journey
+#  My Project Journey
 
 <div align="center">
 
-### 🌱 Explore. Build. Experiment. Grow.
+###  Explore. Build. Experiment. Grow.
 
 A collection of my learning, experiments, ideas, and projects as I explore the world of technology.
 
@@ -10,7 +10,7 @@ A collection of my learning, experiments, ideas, and projects as I explore the w
 
 ---
 
-## 👋 About This Repository
+##  About This Repository
 
 This repository is a space where I document my journey of learning and building with technology.
 
@@ -20,16 +20,16 @@ This repository will grow along with my skills.
 
 ---
 
-## 🧭 What I'm Exploring
+##  What I'm Exploring
 
-* 🐍 Programming & Problem Solving
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🧠 Machine Learning
-* 🌐 Web Development
-* 💻 Software Development
-* 🔍 New Technologies & Tools
-* 💡 Creative Ideas & Experiments
+*  Programming & Problem Solving
+*  Artificial Intelligence
+*  Data Science
+*  Machine Learning
+*  Web Development
+*  Software Development
+*  New Technologies & Tools
+*  Creative Ideas & Experiments
 
 ---
 
@@ -41,23 +41,23 @@ I believe that the best way to learn technology is by creating, making mistakes,
 
 ---
 
-## 🌱 What's Next?
+##  What's Next?
 
 This repository is not a finished collection.
 
 It is a growing record of my journey — from learning the fundamentals to exploring AI, building projects, experimenting with ideas, and developing real-world skills.
 
-### 🚀 The journey has just begun.
+###  The journey has just begun.
 
 ---
 
 <div align="center">
 
-### 💡 Learn. Build. Experiment. Improve.
+###  Learn. Build. Experiment. Improve.
 
 **Building today for the AI future.**
 
-⭐ Thanks for visiting my repository!
+ Thanks for visiting my repository!
 
 </div>
 
